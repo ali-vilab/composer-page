@@ -1,0 +1,6 @@
+@article{lhhuang2023composer,
+  title={Composer: Creative and Controllable Image Synthesis with Composable Conditions},
+  author={Huang, Lianghua and Chen, Di and Liu, Yu and Yujun, Shen and Zhao, Deli and Jingren, Zhou},
+  booktitle={arXiv preprint arxiv:2302.09778},
+  year={2023}
+}
